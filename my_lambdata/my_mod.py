@@ -1,4 +1,4 @@
-print('hello')
+# print('hello')
 def data_string(str):
     ##     """feature enginering toi get length of a string varible 
 ##     to still be used in a dataframe """
@@ -9,10 +9,10 @@ def data_string(str):
     return counter    
 
 str = ('')
-print(data_string(str)) 
+# print(data_string(str)) 
 
 
-print(data_string('magic the gathering'))
+# print(data_string('magic the gathering'))
 if __name__ == "__main__":
     # only run the code below IF this script is invoked from the command-line
     # not if it is imported from another script
